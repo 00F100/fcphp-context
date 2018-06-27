@@ -1,4 +1,4 @@
 vendor
 composer.lock
 tests/coverage
-tests/var
+tests/var/cache
