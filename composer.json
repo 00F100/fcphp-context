@@ -1,7 +1,7 @@
 {
     "name": "00f100/fcphp-context",
     "type": "package",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Context for FcPhp",
     "keywords": ["context", "php", "fcphp", "php7"],
     "homepage": "https://github.com/00f100/fcphp-context",
@@ -14,9 +14,9 @@
     ],
     "require": {
         "php": ">=7.2",
-        "00f100/fcphp-di": "0.2.2",
-        "00f100/fcphp-autoload": "0.3.0",
-        "00f100/fcphp-cache": "0.3.1"
+        "00f100/fcphp-di": "0.*",
+        "00f100/fcphp-autoload": "0.*",
+        "00f100/fcphp-cache": "0.*"
     },
     "require-dev": {
         "00f100/phpdbug": "*",
